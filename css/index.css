@@ -47,7 +47,7 @@ html {
     font-size: 1.5rem;
 }
 
-@media only screen and(min-width: 768px) {
+@media only screen and (min-width: 768px) {
     .sct-banner .img-container {
         float: right;
         width: 60%;
